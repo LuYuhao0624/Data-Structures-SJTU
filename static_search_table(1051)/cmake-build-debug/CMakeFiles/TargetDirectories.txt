@@ -1,0 +1,3 @@
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/static_search_table(1051)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/static_search_table(1051)/cmake-build-debug/CMakeFiles/static_search_table_1051_.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/static_search_table(1051)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
