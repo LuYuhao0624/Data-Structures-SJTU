@@ -1,0 +1,3 @@
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/latge_number_multiplication(1015)/cmake-build-debug/CMakeFiles/latge_number_multiplication_1015_.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/latge_number_multiplication(1015)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/latge_number_multiplication(1015)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
