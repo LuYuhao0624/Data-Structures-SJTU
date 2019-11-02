@@ -1,0 +1,3 @@
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/matrix_sum(1228)/cmake-build-debug/CMakeFiles/matrix_sum_1228_.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/matrix_sum(1228)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/10752/Desktop/Docs/Works/C++/data structures exercises/matrix_sum(1228)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
